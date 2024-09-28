@@ -18,7 +18,7 @@
 
 ## CREATE YOUR FORK
 <a href="https://github.com/DRK-S-TEN/KLAUS-MD-/fork">
-  <img title="𝐊𝐋𝐀𝐔𝐒-𝐌𝐃" src="https://img.shields.io/badge/FORK-𝐊𝐋𝐀𝐔𝐒-red?color=red&style=for-the-badge&logo=stackshare">
+  <img title="𝐅𝐋𝐀𝐒𝐇-𝐌𝐃" src="https://img.shields.io/badge/FORK-𝐊𝐋𝐀𝐔𝐒-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
